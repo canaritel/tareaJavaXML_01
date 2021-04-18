@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+  <libros>
+    <libro>
+      <titulo>Don Quijote de la Mancha</titulo>
+      <autor>M. de Cervantes</autor>
+      <paginas>2200</paginas>
+      <precio>25.90</precio>
+    </libro>
+    <libro>
+      <titulo>El retrato de Dorian Gray</titulo>
+      <autor>Oscar Wilde</autor>
+      <paginas>1200</paginas>
+      <precio>13.90</precio>
+    </libro>
+    <libro>
+      <titulo>El guardián entre el centeno</titulo>
+      <autor>J. D. Salinger</autor>
+      <paginas>3400</paginas>
+      <precio>19.90</precio>
+    </libro>
+  </libros>
+</libreria>

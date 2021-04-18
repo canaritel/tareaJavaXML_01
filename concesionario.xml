@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+  <coches>
+    <coche>
+      <matricula>GC12345</matricula>
+      <marca>BMW</marca>
+      <modelo>M5 Sport</modelo>
+      <precio>125000</precio>
+    </coche>
+    <coche>
+      <matricula>TF34567</matricula>
+      <marca>Audi</marca>
+      <modelo>RS7 Sport</modelo>
+      <precio>139000</precio>
+    </coche>
+    <coche>
+      <matricula>MA98765</matricula>
+      <marca>Mercedes</marca>
+      <modelo>E63 AMG</modelo>
+      <precio>145000</precio>
+    </coche>
+  </coches>
+</concesionario>
